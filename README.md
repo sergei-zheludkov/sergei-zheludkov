@@ -1,5 +1,5 @@
 # Stats
-<img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=sergei-zheludkov&show_icons=true&hide_border=true&count_private=true" height="180" style="border-radius: 12px; border: gray solid 1px"><img alt="leetcode-stats" src="https://leetcode-stats-six.vercel.app/api?username=sergei-zheludkov" height="180" style="border-radius: 12px; border: gray solid 1px">
+<img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=sergei-zheludkov&show_icons=true&hide_border=true&count_private=true" height="180" style="border-radius: 12px; border: gray solid 1px"><a href="https://leetcode.com/sergei-zheludkov"><img alt="leetcode-stats" src="https://leetcode-stats-six.vercel.app/api?username=sergei-zheludkov" height="180" style="border-radius: 12px; border: gray solid 1px"></a>
 
 
 Technology stack:
