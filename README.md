@@ -32,10 +32,4 @@ My roles: DEV, QA
 
 # Contacts
 
-<a href="https://t.me/sergeizheludkov">
-  <img alt="Zheludkov Sergei | Telegram" width="40px" src="https://web.telegram.org/apple-touch-icon.png"/>
-</a>
-<a href="https://www.linkedin.com/in/sergei-zheludkov-0a90441ab/">
-  <img alt="Zheludkov Sergei| LinkedIn" width="40px" src="https://static.licdn.com/aero-v1/sc/h/5bukxbhy9xsil5mb7c2wulfbx" />
-</a>
-<br/>
+<a href="https://t.me/sergeizheludkov"><img alt="Zheludkov Sergei | Telegram" width="40px" src="https://web.telegram.org/apple-touch-icon.png"/></a><a href="https://www.linkedin.com/in/sergei-zheludkov-0a90441ab"><img alt="Zheludkov Sergei | LinkedIn" width="40px" src="https://static.licdn.com/aero-v1/sc/h/5bukxbhy9xsil5mb7c2wulfbx" /></a>
