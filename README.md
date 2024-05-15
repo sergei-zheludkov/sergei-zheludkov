@@ -22,6 +22,7 @@ My roles: CTO, PO, DEV
 -->
 
 ## urban-bot
+[![GitHub stars](https://img.shields.io/github/stars/urban-bot/urban-bot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/urban-bot/urban-bot/stargazers)
 
 The universal chatbot library based on React.
 
