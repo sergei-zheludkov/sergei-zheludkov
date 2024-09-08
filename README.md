@@ -1,10 +1,9 @@
 # Stats
-<img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=sergei-zheludkov&show_icons=true&hide_border=true&count_private=true" height="180" style="border-radius: 12px; border: gray solid 1px"><a href="https://leetcode.com/sergei-zheludkov"><img alt="leetcode-stats" src="https://leetcode-stats-six.vercel.app/api?username=sergei-zheludkov" height="180" style="border-radius: 12px; border: gray solid 1px"></a>
-
+<img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=sergei-zheludkov&show_icons=true&hide_border=true&count_private=true" height="180" style="border-radius: 12px; border: gray solid 1px"><a href="https://leetcode.com/sergei-zheludkov"><img alt="leetcode-stats" src="https://leetcode-badge-sage.vercel.app/badge/sergei-zheludkov?bgColor=fff" height="180" style="border-radius: 12px; border: gray solid 1px"></a>
 
 Technology stack:
 * **Base:** JavaScript · Typescript
-* **Front:**  React · Redux · Jest · Storybook · Webpack · Babel · Eslint · HTML · CSS · SCSS · Styled Components · Bootstrap · Material UI
+* **Front:** React · Redux · AngularJS · Jest · Storybook · Webpack · Babel · Eslint · HTML · CSS · SCSS · Styled Components · Bootstrap · Material UI
 * **Back:** Node.js · Express · NestJS · nginx
 * **Api:** Rest · GraphQL · Apollo
 * **DevOps:** Docker · GitHub Actions
